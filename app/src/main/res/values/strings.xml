@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VehicleDetails</string>
+    <string name="Btn_find_model">Find Model</string>
+</resources>
